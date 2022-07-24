@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = ['917907665527'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
+global.pengguna = 'ajuzz zer' // Your name ඔබේ නම 
+global.botnma = '🐈 𝐊𝐈𝐍𝐆 𝐀𝐣𝐮𝐙𝐳 𝐁𝐨𝐭 🐈' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '♱ 𝐼𝑇𝜡_ 𝑀𝛯 𝐴𝐽𝑈𝑍𝑍 ꪶ🌸ꫂ'//ownernama,ownername
 global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.author = '♱ 𝐼𝑇𝜡_ 𝑀𝛯 𝐴𝐽𝑈𝑍𝑍 ꪶ🌸ꫂ ›_' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`//this is not power of your creation😺❤️
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
